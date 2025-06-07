@@ -2,7 +2,9 @@
 
 This mod demonstrates how to track a keybind press on the client, send that state to the server, synchronize it across all clients, and render a custom T‑Pose animation based on a per‑player capability.  
 It is fully multiplayer‑compatible and uses **Minecraft Forge 1.20.1** networking and capability systems.
-![image1](https://github.com/user-attachments/assets/b874d25d-7690-4df9-b571-4a333508ff6f)
+
+![image1](https://github.com/user-attachments/assets/0a8d25eb-3674-4b7e-9495-a4140227bb3b)
+
 
 
 ---
